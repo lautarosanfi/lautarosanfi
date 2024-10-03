@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/lautarosanfi/lautarosanfi/main/gif.gif" alt="👋 Hi there! I'm (lautaro(111|sanfi))" title="👋 Hi there! I'm (lautaro(111|sanfi))"/>]
+<img src="https://raw.githubusercontent.com/lautarosanfi/lautarosanfi/main/gif.gif" alt="👋 Hi there! I'm (lautaro(111|sanfi))" title="👋 Hi there! I'm (lautaro(111|sanfi))"/>
 ## Hi there 👋
 
 <!--
