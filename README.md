@@ -1,4 +1,4 @@
-![](https://github.com/lautarosanfi/lautarosanfi/blob/main/Plexus_Background_White%20(1).mp4)
+[<img src="https://raw.githubusercontent.com/lautarosanfi/lautarosanfi/main/intro (1).gif" alt="👋 Hi there! I'm (lautaro(111|sanfi)|https://lautarosanfi.com)" title="👋 Hi there! I'm (lautaro(111|sanfi)|https://lautarosanfi.com)"/>](https://lautarosanfi.com/)
 ## Hi there 👋
 
 <!--
