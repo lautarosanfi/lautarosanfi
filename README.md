@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/lautarosanfi/lautarosanfi/main/gif.gif" alt="👋 Hi there! I'm (lautaro(111|sanfi))" title="👋 Hi there! I'm (lautaro(111|sanfi))"/>
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/lautarosanfi/lautarosanfi/main/gif.gif" alt="👋 Hi there! I'm (lautaro(111|sanfi))" title="👋 Hi there! I'm (lautaro(111|sanfi))" style="width: 100%; height: auto;">
+</div>
+
 ## Hi there 👋
 
 <!--
