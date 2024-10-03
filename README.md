@@ -1,6 +1,5 @@
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/lautarosanfi/lautarosanfi/main/gif.gif" alt="👋 Hi there! I'm (lautaro(111|sanfi))" title="👋 Hi there! I'm (lautaro(111|sanfi))" style="width: 100%; height: auto;">
-</div>
+<img src="https://raw.githubusercontent.com/lautarosanfi/lautarosanfi/main/gif.gif" alt="👋 Hi there! I'm (lautaro(111|sanfi))" title="👋 Hi there! I'm (lautaro(111|sanfi))" width="100%" />
+
 
 ## Hi there 👋
 
